@@ -1,2 +1,2 @@
 # tribute-page
-Basic, static tribute page project for freecodecamp
+Basic, responsive tribute page project for freecodecamp
